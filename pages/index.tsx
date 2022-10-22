@@ -22,7 +22,7 @@ const Home: NextPage = () => {
 
   </div>
 </div>
- <main className='bg-black w-full h-full min-h-screen flex items-center justify-center'>
+ <main className='bg-black w-full h-full min-h-screen flex overflow-hidden items-center justify-center'>
 
   <div className='flex flex-col justify-center items-center'>
 
