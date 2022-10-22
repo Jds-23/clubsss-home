@@ -26,8 +26,10 @@ const Home: NextPage = () => {
 
   <div className='flex flex-col justify-center items-center'>
 
-  <h1 className='text-4xl md:text-5xl text-white text-center font-bold mb-1'>Building an <br/> online community? 👀</h1>
-  <p className='w-full max-w-sm text-center mb-3 text-primary font-normal leading-[18px]'>Creating a web3 powered community(or dao) with <span className='font-black'>clubsss</span> is as simple as creating a subreddit. ✨</p>
+  <h1     data-aos-duration="2000"
+ data-aos="fade-right" className='text-4xl md:text-5xl text-white text-center font-bold mb-1'>Building an <br/> online community? 👀</h1>
+  <p data-aos-duration="2000"
+ data-aos="fade-left" data-aos-delay="1000" className='w-full max-w-sm text-center mb-3 text-primary font-normal leading-[18px]'>Creating a web3 powered community(or dao) with <span className='font-black'>clubsss</span> is as simple as creating a subreddit. ✨</p>
   <a href='https://discord.gg/CraUtnzK' target="_blank" rel="noopener noreferrer" className='bg-primary px-5 text-sm py-2 flex justify-center font-bold rounded-md justify-self-end w-fit cursor-pointer  hover:brightness-90'>Join Discord 👉</a>
   </div>
  </main>
