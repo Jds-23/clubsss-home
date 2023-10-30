@@ -8,7 +8,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Clubsss: create web3 powered communities</title>
+        <title>Clubsss: create web3 powered communities this was updated</title>
         <meta name="description" content="Create web3 powered communities" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
